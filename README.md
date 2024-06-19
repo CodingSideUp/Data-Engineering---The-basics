@@ -7,4 +7,4 @@ The connection of these nodes and reflection of master and slave nodes can be se
 SQLite Database has then been created using a script in Python, which is then run on HADOOP, a DISTRIBUTED FILE SYSTEM
 Queries to extract data from SQLite has also been implemented and screenshots are also available.
 
-All suggestions and somments are welcome.
+All suggestions and comments are welcome.
